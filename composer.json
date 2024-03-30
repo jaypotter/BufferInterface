@@ -1,0 +1,21 @@
+{
+    "name": "potter/buffer-interface",
+    "description": "PHP Buffer Interface",
+    "type": "library",
+    "require": {
+        "php": "^8.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Potter\\Buffer\\": "src/Potter/Buffer/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jay Potter",
+            "email": "j@ypotter.ca"
+        }
+    ],
+    "minimum-stability": "dev"
+}
