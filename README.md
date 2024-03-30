@@ -1,0 +1,2 @@
+# BufferInterface
+PHP Buffer Interface
